@@ -1,2 +1,6 @@
-CmakeLists.txt
+# cmake build dir
+build
+# vs pj files
 *.vs
+obj-*
+*vcxproj.user
